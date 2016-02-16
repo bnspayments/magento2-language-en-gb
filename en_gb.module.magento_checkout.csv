@@ -54,3 +54,8 @@
 "You added %1 to your shopping cart.","You added %1 to your shopping basket.",module,Magento_Checkout
 "You have no items in your shopping cart.","You have no items in your shopping basket.",module,Magento_Checkout
 "Your debit/credit card will be charged for","Your debit/credit card will be charged for",module,Magento_Checkout
+"State/Province","County/Region",module,Magento_Checkout
+"State","County",module,Magento_Checkout
+"Province","Region",module,Magento_Checkout
+"Zip/Postal Code","Post Code",module,Magento_Checkout
+"Zip","Post Code",module,Magento_Checkout
